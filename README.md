@@ -18,3 +18,4 @@ facelessanonim
 none
 Контакты
 none
+link:https://colab.research.google.com/drive/1A1xydOncPknNF_ggaTDlVPy7KzU211sb?usp=sharing
